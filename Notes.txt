@@ -1,1 +1,2 @@
 Line 1: This is the first change by me.
+Line 2: This is the second change by me.
